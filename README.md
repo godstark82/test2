@@ -1,3 +1,3 @@
 # gemini_ai
 
-A new Flutter project.
+A Flutter Project That uses Gemini API 
